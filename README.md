@@ -5,7 +5,8 @@ https://deepfakedetectionwithai.herokuapp.com/
 
 Team Members:                                                                                                                                 
 
-G.Sai Dheeraj : Deep Learnining model/Deployment                                                                                                                               ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ---                                                                                                                                                                                           
+G.Sai Dheeraj : Deep Learnining model/Deployment                                                                                                                                 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                                                                                                                           
 ### Methodology: CRISP-DM  (Cross Industry Standard process for Data Mining)
   1) Problem : Detect the Disease using medical images.
   2) Data Gathering : Kaggle 
