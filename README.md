@@ -1,5 +1,5 @@
 # Pneumonia-Detection
-http://pneumoniadetectionwithai.herokuapp.com/
+https://deepfakedetectionwithai.herokuapp.com/
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------           
 
