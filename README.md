@@ -5,8 +5,7 @@ http://pneumoniadetectionwithai.herokuapp.com/
 
 Team Members:                                                                                                                                 
 
-Vootla Yeswanth : Web Development/ UI                                                                                                                                                                                      
-G.Sai Dheeraj : Deep Learnining model/Deployment                                                                                                                                                                                                                                                                                                                       
+                                                                                                                                                                             G.Sai Dheeraj : Deep Learnining model/Deployment                                                                                                                                                                                                                                                                                                                       
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ---                                                                                                                                                                                           
 ### Methodology: CRISP-DM  (Cross Industry Standard process for Data Mining)
   1) Problem : Detect the Disease using medical images.
