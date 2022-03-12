@@ -8,11 +8,11 @@ Team Members:
 G.Sai Dheeraj : Deep Learnining model/Deployment                                                                                                                                 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                                                                                                                           
 ### Methodology: CRISP-DM  (Cross Industry Standard process for Data Mining)
-  1) Problem : Detect the Disease using medical images.
+  1) Problem : Detect Deepfakes
   2) Data Gathering : Kaggle 
   3) Data Cleaning : Removed the Duplicates in the data
   4) Data Preparation : Reshaped the size of data into reqquired input shape for transfer learning models.
-  5) Modelling : Used Inceptoion Resnet-V2, VGGFace, Custom Designed Architecture.                                                                                                                                                                                         
+  5) Modelling : Used Densenet, VGGFace, Custom Designed Architecture.                                                                                                                                                                                         
 
      -Why These three models?                                                                                                                                                                                         
      Answer) Usually, we start with the simple architecture and end with the complex architecture.
