@@ -9,7 +9,7 @@ G.Sai Dheeraj : Deep Learnining model/Deployment
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                                                                                                                           
 ### Methodology: CRISP-DM  (Cross Industry Standard process for Data Mining)
   1) Problem : Detect Deepfakes
-  2) Data Gathering : Kaggle 
+  2) Data Gathering : Kaggle (https://www.kaggle.com/xhlulu/140k-real-and-fake-faces)
   3) Data Cleaning : Removed the Duplicates in the data
   4) Data Preparation : Reshaped the size of data into reqquired input shape for transfer learning models.
   5) Modelling : Used Densenet, VGGFace, Custom Designed Architecture.                                                                                                                                                                                         
