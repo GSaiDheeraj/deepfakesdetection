@@ -28,3 +28,7 @@ G.Sai Dheeraj : Deep Learnining model/Deployment
      7) Integreation with Deep learning models                                                                                                                                       
    6) Deployment in the cloud
    7) maintainence.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+
+Notebooks need to be run in kaggle env due to version errors and the size of the data.
